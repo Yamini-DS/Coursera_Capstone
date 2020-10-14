@@ -1,0 +1,18 @@
+1.Now the data used for solving this business problem is Data collisions collected
+or given.
+2.In this data collisions there are numerical factors which are influencing the target
+variable severity of the accident
+3.So in this there are almost 37 features which are impacting the target variable
+4.Then this data has to be cleaned and find the statistics for the features so that
+we don't get down on the accuracy or correct predictions by making or involving
+any unnecessary variables into the data. So removing all the bad data or not useful
+data and making use of only relevant data makes the predictions and insights much
+more efficient and accurate.
+5. This data has been collected from the Seattle, USA which can be used for solving
+any such same type of situation and prevent any such accidents happening at any place.
+6. Data is also collected on weekly basis at Seattle by SDOT Traffic Management
+ Division, Traffic Records Group organization Analyst.
+7. This data includes all types of collisions. Collisions will display at the intersection or
+mid-block of a segment. Timeframe: 2004 to Present.
+8. For more info check out the Metadata on vehicle collisions.pdf present in the
+same scripts folder.
