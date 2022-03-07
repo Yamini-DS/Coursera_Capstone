@@ -1,0 +1,10 @@
+#install scrapy in windows
+conda install -c conda-forge scrapy
+#fortego error occurs sometimes while creating scrapy
+fortego
+#any compatible versions
+scrapy
+requests
+#python version <3 is recommended 
+#create virtual or new environment
+#python==2.7
